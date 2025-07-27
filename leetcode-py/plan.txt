@@ -1,0 +1,19 @@
+Link: https://leetcode.com/problem-list/xi4ci4ig/
+important items:
+双指针	Two Sum、Remove Duplicates
+哈希表	Group Anagrams、Valid Anagram
+滑动窗口	Longest Substring Without Repeating Characters
+栈	Valid Parentheses、Min Stack
+链表	Merge Two Sorted Lists、Reverse Linked List
+DFS / 回溯	Subsets、Permutations
+二叉树	Inorder Traversal、Max Depth
+动态规划	Climbing Stairs、House Robber、Coin Change
+
+format: 
+滑动窗口模板（固定长度/可变长度）
+
+二叉树 DFS 模板（前序/中序/后序）
+
+回溯模板（track → for 循环 → 回溯）
+
+DP 五步法（定义、状态、初始化、转移方程、返回值）

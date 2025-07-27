@@ -1,0 +1,9 @@
+study website: https://reactjs.org/
+
+terminal -> npx create-react-app projectName
+
+suggest that you begin by typing:
+  cd my-app
+  npm start
+
+  

@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: auth-service
+  security:
+      oauth2:
+        resourceserver:
+          jwt:
+            jwk-set-uri: http://localhost:8080/oauth2/jwks
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/bank-auth
